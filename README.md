@@ -5,8 +5,10 @@ Accounts must be configured to require password expiration.
 
 <br>
 Second Attempt
+<br>
 <img width="830" height="1009" alt="Win11-00-000090SecondScreenshot" src="https://github.com/user-attachments/assets/c44be1ac-ade6-413d-bcd4-4b90029dce28" />
 
+<br>
 <br>
 Results
 
